@@ -276,7 +276,7 @@ def click(amp_store, v_test, times, resize = [540,960]):
             #you probably want to remove this later
             print (right_clicks)
 
-    img = np.swapaxes(amp_store,0,1 )   
+    img = np.swapaxes(amp_store, 0, 1)   
     imS = cv2.resize(img, (resize[0], resize[1])) 
 
     scale_width = 1000 / imS.shape[1]
