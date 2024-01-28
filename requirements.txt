@@ -27,3 +27,4 @@ opencv-python
 scipy
 lasio
 numpy
+gdal
