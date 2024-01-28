@@ -1,0 +1,13 @@
+Area = admin_region|South East England
+ClimateChangeType = absolute
+Collection = land-gcm
+DataFormat = netcdf
+EnsembleMemberSet = land-rcm
+JobLabel = uk-test
+Scenario = rcp26
+TemporalAverage = day
+TimeSlice = 2000|2100
+Variable = pr
+
+Process Identifier = LS2_Subset_02
+Software Version = WPS-2.9.0-DP-2.9.0-CV-1.0.10

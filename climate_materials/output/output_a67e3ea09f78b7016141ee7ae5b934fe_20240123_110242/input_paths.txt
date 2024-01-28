@@ -1,0 +1,12 @@
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/01/pr/day/v20200302/
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/04/pr/day/v20200302/
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/05/pr/day/v20200302/
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/06/pr/day/v20200302/
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/07/pr/day/v20200302/
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/08/pr/day/v20200302/
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/09/pr/day/v20200302/
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/10/pr/day/v20200302/
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/11/pr/day/v20200302/
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/12/pr/day/v20200302/
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/13/pr/day/v20200302/
+http://data.ceda.ac.uk/badc/ukcp18/data/land-gcm/uk/region/rcp26/15/pr/day/v20200302/
